@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header-section{
+    background: aqua;
+}
+.header-main{
+    width: 90%;
+    margin: 0 auto;
+}
+.header-main ul{
+    margin-left: 70%;
+}
+.header-main ul li{
+    list-style-type: none;
+    display: inline-block;  
+    padding: 10px 20px;  
+}
+.header-main ul li a{
+    text-decoration: none; 
+    font-size: 30px;  
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+}
+.header-main ul li a:hover{
+    color: #ffff;
+}
